@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+biopython
+numpy
+requests
+tqdm
+py3Dmol
